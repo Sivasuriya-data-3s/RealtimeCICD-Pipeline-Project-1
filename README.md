@@ -100,7 +100,7 @@ The CI pipeline is handled by **Jenkins** and includes:
 
 ## 📸 Architecture Diagram  
 
-![Pipeline Diagram](./docs/pipeline-diagram.png)  
+![Pipeline Diagram](./Screenshot%202025-09-25%20144441.png)  
 
 ---
 
